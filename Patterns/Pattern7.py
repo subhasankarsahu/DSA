@@ -1,5 +1,5 @@
 class Solution:
-    def pattern5(self, n):
+    def pattern7(self, n):
         for i in range(n):
             for j in range(n-i-1):
                 print(" ", end=" ")
@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
     n = 5
 
-    sol.pattern5(n)
+    sol.pattern7(n)
 
 '''
         * 
