@@ -7,3 +7,11 @@ if __name__ == "__main__":
     sol = Solution()
     N = 5
     sol.pattern2(N)
+
+'''
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+'''
